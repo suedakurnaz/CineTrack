@@ -53,9 +53,6 @@ lib/
     └── movie_card.dart     ← Yeniden kullanılabilir film kartı
 ```
 
-## Görseller
-<img width="1206" height="2622" alt="Film Detay Sayfası" src="https://github.com/user-attachments/assets/6939f192-ddef-4eac-8d34-d479d637a4e9" />
-
 ## ▶️ Çalıştırma
 
 ```bash
